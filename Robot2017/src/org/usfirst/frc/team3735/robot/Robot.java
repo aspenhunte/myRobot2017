@@ -54,6 +54,8 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
  * documentation. If you change the name of this class or the package after
  * creating this project, you must also update the manifest file in the resource
  * directory.
+ * 
+ * hi my name is ellie
  */
 public class Robot extends VortxIterative {
 
